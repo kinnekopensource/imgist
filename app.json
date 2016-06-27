@@ -1,8 +1,8 @@
 {
-  "name": "Python on Heroku example",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Imgist",
+  "description": "Python/Django app that generates graph images based on URL, deployable on Heroku",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/kinnekopensource/imgist",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ]
 }
